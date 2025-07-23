@@ -1,0 +1,47 @@
+body {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin: 0 auto;
+    width: 50vw;
+    min-height: calc(100vh - 100px);
+    text-align: center;
+    background-color: white;
+    background-position: center;
+    color: gold;
+}
+
+hr {
+    width: 99%;
+    border-width: 2px;
+    border-color: black;
+}
+
+section {
+    width: 100%;
+}
+
+ul {
+    /* list-style-type: none; */
+    list-style-position: inside;
+    
+
+}
+
+h2 {
+    display: block;
+
+}
+
+div {
+    background-color: black;
+}
+
+footer {
+    padding: 20px;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+}
